@@ -1,43 +1,43 @@
 
   
-  # s
+  # Professional README Generator
   ---
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  [![License](https://img.shields.io/badge/License-EPL%201.0-red.svg)](https://opensource.org/licenses/EPL-1.0)
 
   ## <a name='description'></a> Description
   
-  s
+  An application that allows the user to create a personal README for their project using node.js
 
   ## Table of Contents
   
   * [Description](#description)
   * [Installation](#installation)
   * [Usage](#usage)
-  * [Contribution](#contribution)
+  * [Contributing](#contributing)
   * [License](#license)
 
   ## <a name='installation'></a> Installation
   
-  s
+  Clone the repo from github to gain all useful information, you will need node.js as well as the inquirer and nmp packages.
 
   ## <a name='usage'></a> Usage
   
-  s
+  To create a README using node.js for faster generation of a README.md file.
 
   ## <a name='license'></a> License
   
-  MIT
-
-  ## <a name='contribution'></a> Contribution
+  This project is under the Eclipse license.
   
-  s
+  ## <a name='contributing'></a> Contributing
+  
+  Use github and node.js to inmprove the project.
 
   ## Tests
   
-  s
+  Using a testing program such as jest.
 
   ## Questions
   
-  [s](https://github.com/s)
+  [SamMichBrown](https://github.com/SamMichBrown)
   If you have any questions find me here,
-  s
+  sammichellebrown@hotmail.com
